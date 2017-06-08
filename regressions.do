@@ -7,3 +7,5 @@ sysuse auto
 reg price mpg
 
 twoway scatter price auto
+
+heteroskedascity 
