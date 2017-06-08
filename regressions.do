@@ -8,4 +8,5 @@ reg price mpg
 
 twoway scatter price auto
 
-heteroskedascity 
+heteroskedascity
+no more of that
