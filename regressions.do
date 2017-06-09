@@ -13,3 +13,4 @@ Log off
 Log back on
 
 Close
+log off
